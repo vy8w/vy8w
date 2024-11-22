@@ -1,18 +1,25 @@
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 0 * * *"  # 매일 00:00에 실행
-  workflow_dispatch:
+  workflow_dispatch:      # 수동 실행 허용
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v2
         with:
-          github_user_name: vy8w
+          github_user_name: vy8w   # 사용자명을 정확히 입력하세요
           outputs: dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2
+
+      - name: Upload Snake to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
         with:
-          target_branch: output
+          target_branch: output    # Pages가 출력될 브랜치
           build_dir: dist
