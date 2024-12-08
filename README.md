@@ -24,7 +24,6 @@ My passion lies in uncovering the value of data to provide actionable business i
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)](https://www.notion.so/Python-f926fb9b78934652a4c614222ab6e5bc?pvs=21)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white)](https://www.notion.so/Python-f926fb9b78934652a4c614222ab6e5bc?pvs=21)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://www.notion.so/Google-Colab-a00a7aa467bc412c982a359ead9867f0?pvs=21)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)]()
 
 ### ☁️ Cloud & Tools
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)]()
