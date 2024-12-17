@@ -48,7 +48,7 @@ My passion lies in uncovering the value of data to provide actionable business i
 ## 📌 Key Projects
 
 ### 1️⃣ **Analysis of Postpartum Care Facility Closure Rates in Local Cities (Competition Winner)**
-- **Tech Stack:** Python, Pandas, Matplotlib
+- **Tech Stack:** Python, Pandas
 - **Description:** Studied the correlation between postpartum care facility closure rates and development potential in local cities, providing data-driven insights.
 - **Achievements:** Won the **Encouragement Award** at a competition hosted by the Korea Information and Communication Security and Ethics Society.
 
