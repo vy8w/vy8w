@@ -21,8 +21,6 @@ My passion lies in uncovering the value of data to provide actionable business i
 ### 📊 Data Analysis & Visualization
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://www.notion.so/Python-f926fb9b78934652a4c614222ab6e5bc?pvs=21)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://www.notion.so/Python-f926fb9b78934652a4c614222ab6e5bc?pvs=21)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)](https://www.notion.so/Python-f926fb9b78934652a4c614222ab6e5bc?pvs=21)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white)](https://www.notion.so/Python-f926fb9b78934652a4c614222ab6e5bc?pvs=21)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://www.notion.so/Google-Colab-a00a7aa467bc412c982a359ead9867f0?pvs=21)
 
 ### ☁️ Cloud & Tools
@@ -49,7 +47,7 @@ My passion lies in uncovering the value of data to provide actionable business i
 
 ## 📌 Key Projects
 
-### 2️⃣ **Analysis of Postpartum Care Facility Closure Rates in Local Cities (Competition Winner)**
+### 1️⃣ **Analysis of Postpartum Care Facility Closure Rates in Local Cities (Competition Winner)**
 - **Tech Stack:** Python, Pandas, Matplotlib
 - **Description:** Studied the correlation between postpartum care facility closure rates and development potential in local cities, providing data-driven insights.
 - **Achievements:** Won the **Encouragement Award** at a competition hosted by the Korea Information and Communication Security and Ethics Society.
@@ -68,7 +66,6 @@ My passion lies in uncovering the value of data to provide actionable business i
 - **Results & Skills Gained:**
   - Enhanced SQL and Python data analysis skills.
   - Gained experience in client-specific data management.
-  - Improved collaboration and problem-solving through dashboard creation.
 ---
 
 ## 💬 Contact
