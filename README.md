@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Pyo Jeongin!
 
-I am focused on growing as a **Data Engineer**, specializing in building efficient data pipelines, processing, and optimizing data workflows.
+I am focused on growing as a **Data Analyst, Data Engineer**, specializing in building efficient data pipelines, processing, and optimizing data workflows.
 My passion lies in uncovering the value of data to provide actionable business insights. I strive to solve problems using various tools and technologies.
 
 ---
@@ -22,6 +22,7 @@ My passion lies in uncovering the value of data to provide actionable business i
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://www.notion.so/Python-f926fb9b78934652a4c614222ab6e5bc?pvs=21)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://www.notion.so/Python-f926fb9b78934652a4c614222ab6e5bc?pvs=21)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://www.notion.so/Google-Colab-a00a7aa467bc412c982a359ead9867f0?pvs=21)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/stable/index.html)
 
 ### ☁️ Cloud & Tools
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)]()
